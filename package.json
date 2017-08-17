@@ -9,18 +9,24 @@
   "bugs": "https://github.com/joshforisha/cycle-fire/issues",
   "license": "MIT",
   "author": "Josh Forisha <josh@forisha.com",
-  "main": "lib/index.js",
   "repository": "https://github.com/joshforisha/cycle-fire/tree/master",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
   "scripts": {
-    "compile": "tsc",
-    "test": "standardts src/**/*.ts"
+    "preinstall": "tsc",
+    "lint": "tslint ./src/**/*.ts",
+    "test": "npm run lint",
+    "build": "npm run lint && tsc"
   },
   "dependencies": {
-    "firebase": "^4.1",
-    "xstream": "^10.8"
+    "firebase": "^4.2.0",
+    "xstream": "^10.9.0"
   },
   "devDependencies": {
-    "standardts": "^1.0",
-    "typescript": "^2.1"
+    "tslint": "^5.6.0",
+    "tslint-consistent-codestyle": "^1.6.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "typescript": "^2.4.2"
   }
 }

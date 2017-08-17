@@ -1,0 +1,2537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upda",
+				"updateProfile\tmethod"
+			],
+			[
+				"sign",
+				"signupResponse$"
+			],
+			[
+				"log",
+				"logoutRequest$"
+			],
+			[
+				"S",
+				"Signup\t(Signup.ts)"
+			],
+			[
+				"rend",
+				"renderSignupForm\t(view.ts)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"vali",
+				"validators\t(model.ts)"
+			],
+			[
+				"pass",
+				"passwordReducer$"
+			],
+			[
+				"last",
+				"lastNameReducer$"
+			],
+			[
+				"firs",
+				"firstNameReducer$"
+			],
+			[
+				"email",
+				"EmailValidator\talias"
+			],
+			[
+				"Pas",
+				"PasswordInputState"
+			],
+			[
+				"ema",
+				"EmailValidator\tfunction"
+			],
+			[
+				"va",
+				"validator\t(intent.ts)"
+			],
+			[
+				"redu",
+				"reduceInputAction"
+			],
+			[
+				"act",
+				"action$\t(index.ts)"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"dom",
+				"domSource"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"paso",
+				"passwordInputAction\t(PasswordInput.ts)"
+			],
+			[
+				"bu",
+				"bulma\t(view.ts)"
+			],
+			[
+				"Reg",
+				"RegistrationForm\t(index.ts)"
+			],
+			[
+				"pas",
+				"password\t(intent.ts)"
+			],
+			[
+				"con",
+				"containerClass"
+			],
+			[
+				"acti",
+				"activeInput"
+			],
+			[
+				"pro",
+				"propertyName\tproperty"
+			],
+			[
+				"sel",
+				"selector\t(intent.ts)"
+			],
+			[
+				"ipaso",
+				"IPasswordReducerProperties\tinterface"
+			],
+			[
+				"IPas",
+				"IPasswordInputState"
+			],
+			[
+				"Ipo",
+				"IPasswordInputProperties"
+			],
+			[
+				"Ipaso",
+				"IPasswordReducerProperties"
+			],
+			[
+				"in",
+				"interface"
+			],
+			[
+				"I",
+				"IPasswordInputProperties"
+			],
+			[
+				"mark",
+				"markedChangedReducer$"
+			],
+			[
+				"passw",
+				"passwordChangeReducer$"
+			],
+			[
+				"defa",
+				"defaultReducer$"
+			],
+			[
+				"att",
+				"attributeName"
+			],
+			[
+				"iin",
+				"IPasswordInputProperties\tinterface"
+			],
+			[
+				"default",
+				"defaultReducer$\t(model.ts)"
+			],
+			[
+				"pasw",
+				"passwordChange$"
+			],
+			[
+				"IS",
+				"ISinks"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"icn",
+				"iconLeft\tproperty"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"IPasswo",
+				"IPasswordInputState"
+			],
+			[
+				"IP",
+				"IPasswordInputProperties\t(types.ts)"
+			],
+			[
+				"erro",
+				"errorSummary\t(model.ts)"
+			],
+			[
+				"ac",
+				"action$\t(intent.ts)"
+			],
+			[
+				"Valid",
+				"ValidStatus"
+			],
+			[
+				"Va",
+				"Valid\t(elements.ts)"
+			],
+			[
+				"type",
+				"typeof\t(validators.ts)"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"IIn",
+				"IInputOptions"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"firebase",
+				"firebaseActions\t(intent.ts)"
+			],
+			[
+				"curren",
+				"currentUser\t(index.ts)"
+			],
+			[
+				"pub",
+				"publicAuth"
+			],
+			[
+				"publi",
+				"publicAuth\t(index.ts)"
+			],
+			[
+				"map",
+				"mapTo\tmethod"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"auth",
+				"authReducer$"
+			],
+			[
+				"impa",
+				"impactDamageDOM$"
+			],
+			[
+				"Check",
+				"CheckboxList"
+			],
+			[
+				"Checkbo",
+				"CheckboxList\tdirectory"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"defaul",
+				"default\tkeyword"
+			],
+			[
+				"valid",
+				"validStatus"
+			],
+			[
+				"item",
+				"itemState"
+			],
+			[
+				"Ival",
+				"IValidationResult"
+			],
+			[
+				"red",
+				"reduceInput"
+			],
+			[
+				"reduc",
+				"reduceInput\t(input.ts)"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"sec",
+				"selector\t(PlaceAutocomplete.ts)"
+			],
+			[
+				"tye",
+				"types\t(index.ts)"
+			],
+			[
+				"In",
+				"InputState"
+			],
+			[
+				"plac",
+				"placeholder\t(index.ts)"
+			],
+			[
+				"fire",
+				"firebase\tproperty"
+			],
+			[
+				"ero",
+				"errorMessage\t(interfaces.ts)"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"resl",
+				"results"
+			],
+			[
+				"resul",
+				"results\t(PlaceAutocomplete.ts)"
+			],
+			[
+				"IIN",
+				"IInputState"
+			],
+			[
+				"icon",
+				"iconWarning\t(input.ts)"
+			],
+			[
+				"Vail",
+				"ValidStatus"
+			],
+			[
+				"Vali",
+				"ValidStatus"
+			],
+			[
+				"util",
+				"utils\tscript"
+			],
+			[
+				"goo",
+				"googlemaps"
+			],
+			[
+				"pl",
+				"places\tmodule"
+			],
+			[
+				"respo",
+				"responseItem"
+			],
+			[
+				"respon",
+				"responseObject"
+			],
+			[
+				"custom",
+				"customerImages"
+			],
+			[
+				"up",
+				"upResp\t? "
+			],
+			[
+				"STATU",
+				"STATUS_DISABLED"
+			],
+			[
+				"STATUS",
+				"STATUS_HIDE"
+			],
+			[
+				"STAT",
+				"STATUS_DISABLE"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"da",
+				"dataStore\t? "
+			],
+			[
+				"level",
+				"levelId\t? "
+			],
+			[
+				"calc",
+				"calcData"
+			],
+			[
+				"her",
+				"helpers"
+			],
+			[
+				"oau",
+				"oauthCfg"
+			],
+			[
+				"be",
+				"before\t? "
+			],
+			[
+				"basicO",
+				"basicToken\t(booking-create.js)"
+			],
+			[
+				"sms",
+				"smsRoutes"
+			],
+			[
+				"service",
+				"serviceLocationCategoryRoutes"
+			],
+			[
+				"par",
+				"partnerRoutes"
+			],
+			[
+				"customer",
+				"customerRoutes"
+			],
+			[
+				"catego",
+				"categoryGroupRoutes"
+			],
+			[
+				"sm",
+				"gvn-node-server/gvn-server-api/routes/sms.js"
+			],
+			[
+				"service-li",
+				"gvn-node-server/gvn-server-api/routes/service-location.js"
+			],
+			[
+				"custome",
+				"gvn-node-server/gvn-server-api/routes/customer-image.js"
+			],
+			[
+				"cleaner",
+				"gvn-node-server/gvn-server-api/routes/cleaner-notification.js"
+			],
+			[
+				"response",
+				"response\tfn "
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"boki",
+				"booking"
+			],
+			[
+				"column",
+				"columnKey"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"base",
+				"basePath"
+			],
+			[
+				"address",
+				"addressAdapter"
+			],
+			[
+				"inser",
+				"insertedProfile"
+			],
+			[
+				"custm",
+				"customer\t(profile.js)"
+			],
+			[
+				"header",
+				"headerAuth"
+			],
+			[
+				"oa",
+				"oauthCfg"
+			],
+			[
+				"ward",
+				"wardRoutes\t? "
+			],
+			[
+				"seri",
+				"serviceLocationRoutes\t? "
+			],
+			[
+				"profil",
+				"profileRoutes\t? "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "npm ERR!     /home/torin/.npm/_logs/2017-08-16T19_52_38_619Z-debug.log                                                 \nnpm ERR! code ELIFECYCLE                                                                                               \nnpm ERR! errno 1                                                                                                       \nnpm ERR! cycle-fire@1.0.0 install: `npm run build`                                                                     \nnpm ERR! Exit status 1                                                                                                 \nnpm ERR!                                                                                                               \nnpm ERR! Failed at the cycle-fire@1.0.0 install script.                                                                \nnpm ERR! This is probably not a problem with npm. There is likely additional logging output above.                     \n                                                                                                                       \nnpm ERR! A complete log of this run can be found in:                                                                   \nnpm ERR!     /home/torin/.npm/_logs/2017-08-16T19_52_38_665Z-debug.log                                                 \ntorin@torin ~/projects/typescript/cycle-fire $ npm install                                                             \nnpm WARN read-shrinkwrap This version of npm is compatible with lockfileVersion@1, but npm-shrinkwrap.json was generate\nd for lockfileVersion@0. I'll try to do my best with it!                                                               \nremoved 4 packages and updated 21 packages in 3.562s                                                                   \ntorin@torin ~/projects/typescript/cycle-fire $ npm outdated                                                            \nPackage     Current  Wanted  Latest  Location                                                                          \nfirebase      4.1.2   4.2.0   4.2.0  cycle-fire                                                                        \ntypescript    2.3.4   2.4.2   2.4.2  cycle-fire                                                                        \nxstream      10.8.0  10.9.0  10.9.0  cycle-fire                                                                        \ntorin@torin ~/projects/typescript/cycle-fire $ npm update                                                              \nnpm WARN tslint-consistent-codestyle@1.6.0 requires a peer of tslint@^5.0.0 but none was installed.                    \nnpm WARN tslint-consistent-codestyle@1.6.0 requires a peer of typescript@^2.1.4 || >=2.1.0-dev || >=2.2.0-dev || >=2.3.\n0-dev || >= 2.4.0-dev || >= 2.5.0 || >= 2.6.0 but none was installed.                                                  \nnpm WARN tsutils@1.9.1 requires a peer of typescript@>=2.0.0 || >=2.0.0-dev || >=2.1.0-dev || >=2.2.0-dev || >=2.3.0-de\nv || >= 2.4.0-dev but none was installed.                                                                              \n                                                                                                                       \n+ xstream@10.9.0                                                                                                       \n+ firebase@4.2.0                                                                                                       \nremoved 104 packages and updated 23 packages in 21.096s                                                                \ntorin@torin ~/projects/typescript/cycle-fire $                                                                         \n",
+			"settings":
+			{
+				"buffer_size": 3720,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/actions.ts",
+			"settings":
+			{
+				"buffer_size": 6986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/driver.ts",
+			"settings":
+			{
+				"buffer_size": 5191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 475,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 479.0,
+		"last_filter": "es",
+		"selected_items":
+		[
+			[
+				"es",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"bas",
+				"Open Terminal View - Bash"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Open Terminal View - Bash"
+			],
+			[
+				"esli",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"esl",
+				"TypeScript: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Open Terminal View - Bash"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"bah",
+				"Open Terminal View - Bash"
+			],
+			[
+				"termi",
+				"Open Terminal View - Bash"
+			],
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ba",
+				"Open Terminal View - Bash"
+			],
+			[
+				"formatn",
+				"TypeScript: Format Document"
+			],
+			[
+				"comma",
+				"TypeScript: Format Document"
+			],
+			[
+				"lin",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"term",
+				"Open Terminal View - Bash"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"req",
+				"Require"
+			],
+			[
+				"PA DIsa",
+				"Package Control: Disable Package"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"show e",
+				"TypeScript: Show Error List"
+			],
+			[
+				"show",
+				"TypeScript: Show Error List"
+			],
+			[
+				"sho",
+				"TypeScript: Show Error List"
+			],
+			[
+				"showe",
+				"TypeScript: Show Error List"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"typescript ero",
+				"TypeScript: Show Error List"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"re",
+				"Require"
+			],
+			[
+				"gro",
+				"Set Syntax: Groovy"
+			],
+			[
+				"json va",
+				"Pretty JSON: Validate"
+			],
+			[
+				"add hea",
+				"FileHeader: Add Header"
+			],
+			[
+				"phpfm",
+				"phpfmt: format now"
+			],
+			[
+				"phpfmt",
+				"phpfmt: format now"
+			],
+			[
+				"beauti",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"php for",
+				"phpfmt: format now"
+			],
+			[
+				"requi",
+				"Require"
+			],
+			[
+				"rqe",
+				"Require"
+			],
+			[
+				"reqi",
+				"Require"
+			],
+			[
+				"rq",
+				"Require"
+			],
+			[
+				"requ",
+				"Require"
+			],
+			[
+				"pa instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa l",
+				"Package Control: List Packages"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pa en",
+				"Package Control: Enable Package"
+			],
+			[
+				"php fm",
+				"phpfmt: format now"
+			],
+			[
+				"file hea",
+				"FileHeader: Add Header"
+			],
+			[
+				"reque",
+				"Require"
+			],
+			[
+				"git add comi",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"valid",
+				"Pretty JSON: Validate"
+			],
+			[
+				"va",
+				"Pretty JSON: Validate"
+			],
+			[
+				"header",
+				"FileHeader: Add Header"
+			],
+			[
+				"valida",
+				"Pretty JSON: Validate"
+			],
+			[
+				"val",
+				"Pretty JSON: Validate"
+			],
+			[
+				"thri",
+				"Set Syntax: Thrift"
+			],
+			[
+				"r",
+				"Require"
+			],
+			[
+				"filehe",
+				"FileHeader: Add Header"
+			],
+			[
+				"vali",
+				"Pretty JSON: Validate"
+			],
+			[
+				"",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"pa remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json val",
+				"Pretty JSON: Validate"
+			],
+			[
+				"head",
+				"FileHeader: Add Header"
+			],
+			[
+				"REQ",
+				"Require"
+			],
+			[
+				"reqiu",
+				"Require"
+			],
+			[
+				"requi\t",
+				"Require"
+			],
+			[
+				"sql po",
+				"Set Syntax: SQL (PostgreSQL)"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"reuiq",
+				"Permute Lines: Unique"
+			],
+			[
+				"config",
+				"Set Syntax: Buildout Config"
+			],
+			[
+				"php fmt",
+				"phpfmt: format now"
+			],
+			[
+				"SQ",
+				"Set Syntax: SQL"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"php cs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"fmt",
+				"phpfmt: toggle auto align"
+			],
+			[
+				"form",
+				"phpfmt: format now"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"beau",
+				"PHP CodeBeautifier"
+			],
+			[
+				"php be",
+				"PHP CodeBeautifier"
+			],
+			[
+				"beaut",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"merge",
+				"Sublimerge"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pa dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ass",
+				"Snippet: Golang type assertion values"
+			],
+			[
+				"assert",
+				"Snippet: Golang type assertion values"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonl",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pa remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"type",
+				"Snippet: Golang type assertion values"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"sassbe",
+				"SassBeautify"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"css com",
+				"Run CSScomb"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"pa lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa di",
+				"Package Control: Disable Package"
+			],
+			[
+				"js",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"CSSC",
+				"Run CSScomb"
+			],
+			[
+				"djang",
+				"Set Syntax: Python Django"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"pa d",
+				"Package Control: Disable Package"
+			],
+			[
+				" pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"pa remov",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 613.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print $PATH",
+			"echo $PATH",
+			"clear",
+			"linter",
+			"jshint",
+			"sublimelinter",
+			"php -l",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"https://github.com/SublimeText/CTags",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/torin/projects/typescript/cycle-fire",
+		"/home/torin/projects/typescript/cycle-fire/node_modules",
+		"/home/torin/projects/typescript/cycle-fire/src"
+	],
+	"file_history":
+	[
+		"/home/torin/projects/typescript/cycle-fire/src/driver.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/index.html",
+		"/data/projects/v2/people-voice/src/pv-cycle/tslint.json",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Login/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Login/intent.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Login/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Login/model.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Login/view.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/components/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/dom/elements.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/components/input.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/dom/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/utils.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/help.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/components/PasswordInput.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/intent.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/model.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/view.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/components/PasswordInput/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/components/PasswordInput/model.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/components/PasswordInput/intent.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/components/PasswordInput/view.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/bulma/form/input.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/RegistrationForm/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/view.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/bulma/input.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/bulma/elements.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/router.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/auth/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Layouts/Main.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/model.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/form/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/validator/validators.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/bulma/utils.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/validator/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/form/input.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/pv-cycle.sublime-project",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/form/form.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/PlaceAutocomplete.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/custom-typings.d.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/form/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/utilities/bulma/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceFormOld/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceFormOld/http.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceFormOld/components/ImpactForm/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/VoiceSearchBar/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/VoiceSearchBar/model.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/VoiceSearchBar/intent.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/VoiceSearchBar/view.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/VoiceSearchBar/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/intent.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/types.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/Checkbox/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/CheckboxList/List.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/Checkbox/interfaces.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceFormOld/index.ts",
+		"/home/torin/.config/sublime-text-3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/home/torin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/torin/.config/sublime-text-3/Packages/User/TypeScript.sublime-settings",
+		"/home/torin/.config/sublime-text-3/Packages/User/Tern.sublime-settings",
+		"/home/torin/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/components/CheckboxList/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/components/TargetForm/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/VoiceForm/components/ImpactForm/index.ts",
+		"/data/projects/v2/people-voice/src/pv-cycle/package.json",
+		"/data/projects/v2/people-voice/src/pv-cycle/src/pages/Home/intent.ts",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/business/BusinessLevel.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/business/BusinessCategoryGroup.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/business/BusinessCategory.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/business/BusinessCleaner.php",
+		"/data/projects/nexx/gvn/gvn-php-server/composer.json",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/business/BusinessCustomer.php",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-common-api/models/booking.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/partner.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/service-location-category.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/service-location.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/service.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/sms.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/category-group.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/node_modules/gvn-common-api/models/customer.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/customer.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/node_modules/nex-hapi/controllers/profile.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/node_modules/nex-business/business/profile.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/routes/level.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/.gitignore",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/config/production.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/controllers/customer-image.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/test/functional/customer-image.js",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/views/customer/_form.php",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/controllers/booking.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-data-store/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-common-api/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-customer-api/node_modules/nex-business/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-common-api/schemas/booking.js",
+		"/data/projects/nexx/gvn/gvn-php-server/nginx_app.conf",
+		"/data/projects/nexx/gvn/gvn-php-server/common/services/nexxId/NexxIdUriConstants.php",
+		"/data/projects/nexx/gvn/gvn-php-server/common/services/nexxId/BaseServiceNexxIdApi.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/controllers/BackendBaseController.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/models/CleanerSearch.php",
+		"/data/projects/nexx/gvn/gvn-php-server/common/helpers/CleanerViewHelper.php",
+		"/data/projects/nexx/gvn/gvn-php-server/common/models/BaseModel.php",
+		"/data/projects/nexx/gvn/gvn-php-server/backend/assets/AppAsset.php",
+		"/data/projects/nexx/gvn/gvn-php-server/environments/production/backend/web/index.php",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-bot/config/development.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-bot/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-bot/lib/base.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-bot/console/booking-expired.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-bot/index.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-common-api/modules/booking/index.js",
+		"/home/torin/Downloads/dev-cataloguePostTags-dev-swagger-postman (1).json",
+		"/home/torin/Downloads/dev-companies-dev-swagger-integrations,authorizers,documentation,validators,gatewayresponses.json",
+		"/data/projects/nexx/gvn/gvn-php-server/environments/production/common/config/params-local.php",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-data-store/src/pool.ts",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/config/production.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/test/functional/location.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/test/functional/partner.js",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/package.json",
+		"/data/projects/nexx/gvn/gvn-node-server/gvn-server-api/test/functional/booking-create.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 146.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3720,
+						"regions":
+						{
+							"0,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										4,
+										8
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"1,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										124,
+										128
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"1,9":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										129,
+										133
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"10,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1204,
+										1208
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"11,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1320,
+										1331
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"11,11":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1331,
+										1366
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"12,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1444,
+										1448
+									]
+								],
+								"scope": "terminalview.brown_black"
+							},
+							"12,9":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1449,
+										1464
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"15,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1800,
+										1811
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"15,11":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1811,
+										1846
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"17,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2040,
+										2048
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"17,22":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2062,
+										2067
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"17,30":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2070,
+										2075
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"18,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2160,
+										2170
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"18,22":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2182,
+										2187
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"18,30":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2190,
+										2195
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"19,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2280,
+										2287
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"19,21":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2301,
+										2307
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"19,29":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2309,
+										2315
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"2,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										244,
+										248
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"2,9":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										249,
+										254
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"20,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2400,
+										2411
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"20,11":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2411,
+										2446
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"21,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2524,
+										2528
+									]
+								],
+								"scope": "terminalview.brown_black"
+							},
+							"22,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2644,
+										2648
+									]
+								],
+								"scope": "terminalview.brown_black"
+							},
+							"24,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										2884,
+										2888
+									]
+								],
+								"scope": "terminalview.brown_black"
+							},
+							"3,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										364,
+										368
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"30,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										3600,
+										3611
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"30,11":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										3611,
+										3646
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"4,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										484,
+										488
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"5,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										604,
+										608
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"6,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										724,
+										728
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"7,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										844,
+										848
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"9,4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1084,
+										1088
+									]
+								],
+								"scope": "terminalview.black_red"
+							}
+						},
+						"selection":
+						[
+							[
+								3647,
+								3647
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/home/torin/projects/typescript/cycle-fire",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_core_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/home/torin/projects/typescript/cycle-fire",
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/actions.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2970.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/driver.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///data/projects/go/src/eaterin/v2/account/model":
+	{
+		"height": 158.0
+	},
+	"output.9o:///data/projects/go/src/eaterin/v2/account/web":
+	{
+		"height": 158.0
+	},
+	"output.9o:///data/projects/go/src/eaterin/v2/binding":
+	{
+		"height": 158.0
+	},
+	"output.9o:///data/projects/go/src/eaterin/v2/oauth2":
+	{
+		"height": 158.0
+	},
+	"output.9o:///data/projects/go/src/eaterin/v2/web":
+	{
+		"height": 158.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 158.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 212.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"output.tern_arghint":
+	{
+		"height": 142.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"output.variable_get":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "cycle-fire.sublime-project",
+	"replace":
+	{
+		"height": 61.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"commondefau",
+				"dtaxi/dtaxi-common-api/resources/default.json"
+			],
+			[
+				"resources/de",
+				"dtaxi/dtaxi-common-api/resources/default.json"
+			],
+			[
+				"commondefaul",
+				"dtaxi/dtaxi-common-api/config/default.json"
+			],
+			[
+				"trip.th",
+				"dtaxi/dtaxi-data-access-thrift/models/trip.thrift"
+			],
+			[
+				"trip-ses",
+				"dtaxi/dtaxi-common-api/models/trip-session.js"
+			],
+			[
+				"dtaxi-comm",
+				"dtaxi/dtaxi-common-api/includes/models.js"
+			],
+			[
+				"resourcedefaul",
+				"dtaxi/dtaxi-common-api/resources/default.json"
+			],
+			[
+				"commonresour",
+				"dtaxi/dtaxi-common-api/resources/default.json"
+			],
+			[
+				"trip.thri",
+				"dtaxi/dtaxi-data-access-thrift/models/trip.thrift"
+			],
+			[
+				"driverac",
+				"dtaxi/dtaxi-common-api/models/driver-activity.js"
+			],
+			[
+				"commontrip",
+				"dtaxi/dtaxi-common-api/models/trip.js"
+			],
+			[
+				"dtaxi",
+				"dtaxi/dtaxi-common-api/gen-nodejs/DTaxiDataService.js"
+			],
+			[
+				"driver_ty",
+				"dtaxi/dtaxi-common-api/gen-nodejs/driver_types.js"
+			],
+			[
+				"resources/defaul",
+				"dtaxi/dtaxi-common-api/resources/default.json"
+			],
+			[
+				"clienttripreq",
+				"dtaxi/dtaxi-tracker/tests/raw/client-trip-request.js"
+			],
+			[
+				"routes/tr",
+				"dtaxi/driver-api/routes/trip.js"
+			],
+			[
+				"driver-api/schema/trip",
+				"dtaxi/driver-api/models/schemas/trip.js"
+			],
+			[
+				"driverba",
+				"dtaxi/dtaxi-common-api/models/driver-basic.js"
+			],
+			[
+				"thrift",
+				"dtaxi/dtaxi-data-access-thrift/service.thrift"
+			],
+			[
+				"server.t",
+				"dtaxi/dtaxi-php-server/vendor/yiisoft/yii2/web/ServerErrorHttpException.php"
+			],
+			[
+				"service",
+				"dtaxi/dtaxi-data-access-thrift/service.thrift"
+			],
+			[
+				"trip.thr",
+				"dtaxi/dtaxi-data-access-thrift/models/trip.thrift"
+			],
+			[
+				"nexexda",
+				"nexex-data-access/gen-nodejs/NexExDataService.js"
+			],
+			[
+				"shared",
+				"nexex-data-access-thrift/shared.thrift"
+			],
+			[
+				"sandbox",
+				"frontend/controllers/SandboxController.php"
+			],
+			[
+				"commonmodelmercha",
+				"common/models/MerchantTransaction.php"
+			],
+			[
+				"merchantcontroll",
+				"backend/controllers/MerchantController.php"
+			],
+			[
+				"sandboxtran",
+				"backend/controllers/SandboxTransactionController.php"
+			],
+			[
+				"wm",
+				"common/wmservice/WMService.php"
+			],
+			[
+				"frontendpay",
+				"frontend/controllers/PaymentController.php"
+			],
+			[
+				"paymentfo",
+				"common/forms/PaymentForm.php"
+			],
+			[
+				"mechantlo",
+				"common/models/MerchantLog.php"
+			],
+			[
+				"commonpay",
+				"common/forms/PaymentForm.php"
+			],
+			[
+				"enviro",
+				"config/environment.js"
+			],
+			[
+				"ic-mu",
+				"app/components/ic-multiselect.js"
+			],
+			[
+				"ic-crea",
+				"app/components/ic-createselect.js"
+			],
+			[
+				"ic-aut",
+				"app/components/ic-autocomplete.js"
+			],
+			[
+				"modelsfood",
+				"app/models/food.js"
+			],
+			[
+				"controllersfoodnew",
+				"app/controllers/foods/new.js"
+			],
+			[
+				"radio-",
+				"app/templates/components/formgroup/radio-buttons.hbs"
+			],
+			[
+				"radio",
+				"app/components/fd-radio.js"
+			],
+			[
+				"formgroupradio",
+				"app/templates/components/formgroup/radiogroup.hbs"
+			],
+			[
+				"componentsradio",
+				"app/components/fd-radio.js"
+			],
+			[
+				"routeapplic",
+				"app/routes/application.js"
+			],
+			[
+				"controllerquestsnew",
+				"app/controllers/quests/new.js"
+			],
+			[
+				"quest.js",
+				"app/models/quest.js"
+			],
+			[
+				"global-s",
+				"app/mixins/controllers/global-search.js"
+			],
+			[
+				"viewheader",
+				"app/views/header.js"
+			],
+			[
+				"envi",
+				"config/environment.js"
+			],
+			[
+				"environ",
+				"config/environment.js"
+			],
+			[
+				"mixins.c",
+				"app/styles/app/misc/_mixins.scss"
+			],
+			[
+				"mixins/controller/globa",
+				"app/mixins/controllers/global-search.js"
+			],
+			[
+				"globalse",
+				"app/components/ic-globalsearch.js"
+			],
+			[
+				"routesea",
+				"app/routes/search.js"
+			],
+			[
+				"ic-gol",
+				"app/components/ic-globalsearch.js"
+			],
+			[
+				"ic-",
+				"app/components/ic-autocomplete.js"
+			],
+			[
+				"resta",
+				"app/models/restaurant.js"
+			],
+			[
+				"validators/u",
+				"app/validators/local/url.js"
+			],
+			[
+				"controllers/foods/new",
+				"app/controllers/foods/new.js"
+			],
+			[
+				"foodmodels",
+				"jakt/food/models.py"
+			],
+			[
+				"mixin",
+				"jakt/utility/mixins.py"
+			],
+			[
+				"mixins",
+				"jakt/utility/mixins.py"
+			],
+			[
+				"restaurantmodel",
+				"jakt/restaurant/models.py"
+			],
+			[
+				"ini",
+				"jakt/mailing/migrations/0001_initial.py"
+			],
+			[
+				"timet",
+				"protected/modules/penguin/widgets/views/timeTable.php"
+			],
+			[
+				"main.css",
+				"themes/penguin/share/css/main.css"
+			],
+			[
+				"main.",
+				"css/main.css"
+			],
+			[
+				"time",
+				"protected/modules/penguin/widgets/views/timeTable.php"
+			],
+			[
+				"timeta",
+				"protected/modules/penguin/widgets/TimeTableWidget.php"
+			],
+			[
+				"harr",
+				"protected/helpers/HArray.php"
+			],
+			[
+				"calendarc",
+				"protected/modules/penguin/controllers/CalendarController.php"
+			],
+			[
+				"loginfo",
+				"protected/modules/user/models/LoginForm.php"
+			],
+			[
+				"apisite",
+				"protected/modules/api/controllers/SiteController.php"
+			],
+			[
+				"tran",
+				"protected/messages/en/translation.php"
+			],
+			[
+				"appoint",
+				"protected\\models\\Appointment.php"
+			],
+			[
+				"setting",
+				"protected\\modules\\admin\\controllers\\SettingController.php"
+			],
+			[
+				"config.lo",
+				"protected\\config\\config.local.php"
+			],
+			[
+				"main",
+				"protected\\config\\main.php"
+			],
+			[
+				"main.re.js",
+				"themes\\65doctor\\js\\main.res.js"
+			],
+			[
+				"main.php",
+				"protected\\config\\main.php"
+			],
+			[
+				"view.php",
+				"protected\\messages\\en\\view.php"
+			],
+			[
+				"view",
+				"protected\\messages\\vi\\view.php"
+			],
+			[
+				"doctor_pro",
+				"protected\\modules\\member\\views\\users\\doctor_profile.php"
+			],
+			[
+				"doctor",
+				"protected\\models\\Doctor.php"
+			],
+			[
+				"spec",
+				"protected\\models\\Specialty.php"
+			],
+			[
+				"specialt",
+				"protected\\models\\Specialty.php"
+			],
+			[
+				"sitecontr",
+				"protected\\controllers\\SiteController.php"
+			],
+			[
+				"style2",
+				"themes\\65doctor\\css\\style2.css"
+			],
+			[
+				"select",
+				"themes\\65doctor\\css\\select2.css"
+			],
+			[
+				"advansearc",
+				"protected\\views\\search\\advanceSearch.php"
+			],
+			[
+				"form.css",
+				"themes\\65doctor\\admin\\css\\form.css"
+			],
+			[
+				"2001",
+				"db\\20140308.sql"
+			],
+			[
+				"doc65",
+				"themes\\65doctor\\js\\doc65.drag.js"
+			],
+			[
+				"exportboo",
+				"protected\\modules\\admin\\views\\export\\booking.php"
+			],
+			[
+				"activere",
+				"protected\\components\\ActiveRecord.php"
+			],
+			[
+				"booki",
+				"protected\\models\\Booking.php"
+			],
+			[
+				"doctor.php",
+				"protected\\models\\Doctor.php"
+			],
+			[
+				"article",
+				"protected\\models\\Articles.php"
+			],
+			[
+				"2014",
+				"db\\20140308.sql"
+			],
+			[
+				"form.cs",
+				"themes\\65doctor\\admin\\css\\form.css"
+			],
+			[
+				"woringt",
+				"protected\\modules\\admin\\views\\clinic\\workingTime.php"
+			],
+			[
+				"addtimeslot",
+				"protected\\modules\\admin\\views\\manageappointment\\_formaddtimeslot.php"
+			],
+			[
+				"excel",
+				"protected\\models\\ExcelBooking.php"
+			],
+			[
+				"active",
+				"protected\\components\\ActiveRecord.php"
+			],
+			[
+				"doc65do",
+				"themes\\65doctor\\js\\doc65.doctor.js"
+			],
+			[
+				"export",
+				"protected\\modules\\admin\\controllers\\ExportController.php"
+			],
+			[
+				"_formb",
+				"protected\\modules\\admin\\views\\buffer\\_formBuffer.php"
+			],
+			[
+				"transl",
+				"protected\\messages\\en\\translation.php"
+			],
+			[
+				"searchcon",
+				"protected\\controllers\\SearchController.php"
+			],
+			[
+				"select2",
+				"themes\\65doctor\\css\\select2.css"
+			],
+			[
+				"combox",
+				"themes\\65doctor\\js\\jquery.combobox.js"
+			],
+			[
+				"bookin",
+				"protected\\models\\Booking.php"
+			],
+			[
+				"expo",
+				"protected\\modules\\admin\\controllers\\ExportController.php"
+			],
+			[
+				"booking.php",
+				"protected\\models\\Booking.php"
+			],
+			[
+				"booking",
+				"html\\booking-details.html"
+			],
+			[
+				"_formbuffer",
+				"protected\\modules\\admin\\views\\buffer\\_formBuffer.php"
+			],
+			[
+				"doc65se",
+				"themes\\65doctor\\js\\doc65.service.js"
+			],
+			[
+				"doc65.ex",
+				"themes\\65doctor\\js\\doc65.export.js"
+			],
+			[
+				"global",
+				"themes\\65doctor\\js\\doc65.global.js"
+			],
+			[
+				"doc65.se",
+				"themes\\65doctor\\js\\doc65.service.js"
+			],
+			[
+				"activerecord",
+				"protected\\components\\ActiveRecord.php"
+			],
+			[
+				"searchco",
+				"protected\\controllers\\SearchController.php"
+			],
+			[
+				"clinic",
+				"protected\\models\\Clinic.php"
+			],
+			[
+				"form",
+				"themes\\65doctor\\admin\\css\\form.css"
+			],
+			[
+				"creatapp",
+				"protected\\commands\\CreateAppointmentCommand.php"
+			],
+			[
+				"managebuffer",
+				"protected\\modules\\admin\\views\\buffer\\manageBuffers.php"
+			],
+			[
+				"editbu",
+				"protected\\modules\\admin\\views\\buffer\\editBuffer.php"
+			],
+			[
+				"buffer",
+				"protected\\models\\Buffers.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
