@@ -14,13 +14,13 @@
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
   "scripts": {
-    "preinstall": "tsc",
+    "postinstall": "tsc",
     "lint": "tslint ./src/**/*.ts",
     "test": "npm run lint",
     "build": "npm run lint && tsc"
   },
   "dependencies": {
-    "firebase": "^4.2.0",
+    "firebase": "^4.4.0",
     "xstream": "^10.9.0"
   },
   "devDependencies": {
